@@ -5,6 +5,7 @@ import Login from './pages/Login'
 import Signup from './pages/Signup'
 import { UserProvider } from "./store/context/UserContext";
 import ProtectedRoute from './components/ProtectedRoute'
+import './App.css'
 
 
 let App=()=>{

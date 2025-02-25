@@ -1,0 +1,12 @@
+/* Custom button hover effect */
+ .button-hover:hover {
+    background: #ff9900; /* Change to your preferred hover color */
+    transform: scale(1.05); /* Optional: Slightly enlarge button on hover */
+    transition: all 0.3s ease-in-out; /* Smooth transition */
+  }
+
+  body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+  }
+  
